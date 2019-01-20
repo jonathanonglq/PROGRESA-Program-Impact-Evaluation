@@ -1,6 +1,6 @@
 # PROGRESA Program Impact-Evaluation
 
-## Overall Summary 
+## Quick Summary 
 The goal of this project is to implement some basic econometric techniques to measure the impact of Progresa on secondary school enrollment rates in Mexico. These methods include T-tests, and linear and multivariate regressions. This project highlights important statistical concepts such as causal inference and spillover effects, rather than predictive analysis. 
 
 ## Conclusion 
